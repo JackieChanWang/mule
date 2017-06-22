@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: '微软雅黑';
+}
+#footer {
+  width: 1920px;
+  height: 397px;
+  background: url("../img/footer.jpg") no-repeat 100% 100%;
+}
+#footer .footer_img {
+  margin: 0 auto;
+  width: 57px;
+  height: 62px;
+}
+#footer .footer_img img {
+  margin-top: 64px;
+  width: 46px;
+  height: 65px;
+}
+#footer .footer_msg {
+  width: 1158px;
+  height: 200px;
+  margin: 90px auto;
+}
+#footer .footer_msg div {
+  float: left;
+  margin-right: 97px;
+  text-align: center;
+}
+#footer .footer_msg div a {
+  display: inline-block;
+  color: #FF6C00;
+  font-weight: 600;
+  margin-bottom: 23px;
+}
+#footer .footer_msg div p {
+  font-size: 14px;
+  color: white;
+  line-height: 1.5;
+}
+#footer .footer_msg div .now {
+  color: #aaa;
+  font-weight: 500;
+  background-color: #000000;
+  margin-top: 33px;
+  padding: 10px 95px;
+}
